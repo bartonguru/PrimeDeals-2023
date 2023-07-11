@@ -50,17 +50,17 @@
 ---
 
 ## Printers
-- [Sovol SV04](https://www.amazon.com/dp/B09MLSSKRD?ref=dlx_prime_gd_dcl_tlt_501_975ceb52_dt_sl6_50)
-- [VoxeLab Auila Pro](https://www.amazon.com/Voxelab-Aquila-Pro-3D-Printer/dp/B0B1PCFC7B?ref=dlx_prime_gd_dcl_tlt_438_eb37dead_dt_sl6_50)
+- [Sovol SV04 $439.00](https://www.amazon.com/dp/B09MLSSKRD?ref=dlx_prime_gd_dcl_tlt_501_975ceb52_dt_sl6_50)
+- [VoxeLab Auila Pro $223.20](https://www.amazon.com/Voxelab-Aquila-Pro-3D-Printer/dp/B0B1PCFC7B?ref=dlx_prime_gd_dcl_tlt_438_eb37dead_dt_sl6_50)
 - [Ender 3 V2 MicroCenter $99](https://www.microcenter.com/product/623606/creality-ender-3-v2-3d-printer)
-- [Ender 3 V2 Neo](https://www.amazon.com/dp/B0B56NMP11?ref=dlx_prime_gd_dcl_tlt_696_095d1dc8_dt_sl6_50)
-- [Ender 3 V2 Neo CRTouch](https://www.amazon.com/dp/B0B8N64LM2?ref=dlx_prime_gd_dcl_tlt_707_7f9c9218_dt_sl6_50)
-- [Ender 3 S1 Pro](https://www.amazon.com/dp/B09V54Y6HD?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50)
-- [Ender 5 S1](https://www.amazon.com/dp/B0BQ6MWK8P?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50&th=1)
-- [Phrozen Sonic Mini Resin](https://www.amazon.com/dp/B08D7HK8Q1?ref=dlx_prime_gd_dcl_tlt_714_7de48f1b_dt_sl6_50)
-- [Elegoo Mars 3 Pro Resin](https://www.amazon.com/dp/B09V17RKFV?ref=dlx_prime_gd_dcl_tlt_717_16326153_dt_sl6_50)
-- [Anycubic Photon D2](https://www.amazon.com/dp/B0B4QWYBZL?ref=dlx_prime_gd_dcl_tlt_777_0cc878be_dt_sl6_50)
-- [Anycubic Kobra NEO](https://www.amazon.com/dp/B0BK1MPNVN?ref_=cm_sw_r_apan_dp_D0AJVRPRVVH5JSW9BM8P)
+- [Ender 3 V2 Neo $319.00](https://www.amazon.com/dp/B0B56NMP11?ref=dlx_prime_gd_dcl_tlt_696_095d1dc8_dt_sl6_50)
+- [Ender 3 V2 Neo CRTouch $243.94](https://www.amazon.com/dp/B0B8N64LM2?ref=dlx_prime_gd_dcl_tlt_707_7f9c9218_dt_sl6_50)
+- [Ender 3 S1 Pro $348.84](https://www.amazon.com/dp/B09V54Y6HD?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50)
+- [Ender 5 S1 $411.75](https://www.amazon.com/dp/B0BQ6MWK8P?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50&th=1)
+- [Phrozen Sonic Mini Resin $279.99](https://www.amazon.com/dp/B08D7HK8Q1?ref=dlx_prime_gd_dcl_tlt_714_7de48f1b_dt_sl6_50)
+- [Elegoo Mars 3 Pro Resin $237.99](https://www.amazon.com/dp/B09V17RKFV?ref=dlx_prime_gd_dcl_tlt_717_16326153_dt_sl6_50)
+- [Anycubic Photon D2 $499.99](https://www.amazon.com/dp/B0B4QWYBZL?ref=dlx_prime_gd_dcl_tlt_777_0cc878be_dt_sl6_50)
+- [Anycubic Kobra NEO $129.99](https://www.amazon.com/dp/B0BK1MPNVN?ref_=cm_sw_r_apan_dp_D0AJVRPRVVH5JSW9BM8P)
 
 ---
 
