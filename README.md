@@ -1,10 +1,12 @@
 # 3D Printing Prime Day "Deals" 2023
 
-## Filaments 
+## Filaments
+### PETG
 - [ActiveME PETG](https://www.amazon.com/dp/B0B8YV28S8?ref=dlx_prime_gd_dcl_tlt_526_c917c9c1_dt_sl6_50)
 - [TPOIMNS PETG](https://www.amazon.com/TPOIMNS-Filament-Arranged-Dimensional-Transparent/dp/B09F5JRZWW?ref=dlx_prime_gd_dcl_tlt_273_3693b01e_dt_sl6_50)
 - [NAGA PETG](https://www.amazon.com/NAGA-Filament-Durable-Dimensional-Accuracy/dp/B0B79QPPH5?ref=dlx_prime_gd_dcl_tlt_169_8d8a420b_dt_sl6_50&th=1)
 - [Overture PLA Matte](https://www.amazon.com/dp/B0BN6BJG67?ref=dlx_prime_gd_dcl_tlt_481_81fb35c5_dt_sl6_50)
+### PLA
 - [AnyCubic PLA](https://www.amazon.com/dp/B09YH8BPX7?ref=dlx_prime_gd_dcl_tlt_498_3246a297_dt_sl6_50)
 - [Mika3D PLA](https://www.amazon.com/dp/B0B5GSPX3S?ref=dlx_prime_gd_dcl_tlt_579_b8e0b600_dt_sl6_50&th=1)
 - [Silk Magic PLA](https://www.amazon.com/Printer-Filament-Coextruded-1-75mm-Gold-Red/dp/B0B48TCN4S?ref=dlx_prime_gd_dcl_tlt_236_9d5138f8_dt_sl6_50&th=1)
@@ -15,7 +17,11 @@
 - [eSUN PLA+](https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Printing/dp/B0BN4W6P6Q/ref=sr_1_3?keywords=eSUN%2BPLA%2B%2B1.75mm%2BEnhanced%2Btoughness&sr=8-3&th=1)
 - [3D Pen 24 Color Refils](https://www.amazon.com/dp/B09RBKFBJ2?ref=dlx_prime_gd_dcl_tlt_667_faba918f_dt_sl6_50)
 - [ERYONE Rainbow PLA](https://www.amazon.com/dp/B0B6G11BX8?ref=dlx_prime_gd_dcl_tlt_678_6f88eefa_dt_sl6_50)
+### TPU
+- [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 
+## Resin
+- [ANYCUBIC](https://www.amazon.com/dp/B0B49M4LTZ?ref=dlx_prime_gd_dcl_tlt_682_41be9f62_dt_sl6_50)
 ---
 
 ## Printers
