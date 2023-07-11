@@ -14,7 +14,7 @@
 - **[PolyMaker 30% Off Coupon RESTOCKDAYS20203]**(https://us.polymaker.com/)
 - [eSUN PLA+](https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Printing/dp/B0BN4W6P6Q/ref=sr_1_3?keywords=eSUN%2BPLA%2B%2B1.75mm%2BEnhanced%2Btoughness&sr=8-3&th=1)
 - [3D Pen 24 Color Refils](https://www.amazon.com/dp/B09RBKFBJ2?ref=dlx_prime_gd_dcl_tlt_667_faba918f_dt_sl6_50)
-- [ERYONE Candy Rainbow](https://www.amazon.com/dp/B0B6G11BX8?ref=dlx_prime_gd_dcl_tlt_678_6f88eefa_dt_sl6_50)
+- [ERYONE Rainbow PLA](https://www.amazon.com/dp/B0B6G11BX8?ref=dlx_prime_gd_dcl_tlt_678_6f88eefa_dt_sl6_50)
 
 ---
 
