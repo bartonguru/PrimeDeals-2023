@@ -42,6 +42,7 @@
 ## Resin
 - [ANYCUBIC](https://www.amazon.com/dp/B0B49M4LTZ?ref=dlx_prime_gd_dcl_tlt_682_41be9f62_dt_sl6_50)
 - [ANYCUBIC Plant Based](https://www.amazon.com/dp/B07YZ71R2H?ref=dlx_prime_gd_dcl_tlt_774_ddc8c4ec_dt_sl6_50)
+- [ANYCUBIC Upgraded ABS-Like Resin](https://www.amazon.com/dp/B09YH2PCR6?ref=dlx_prime_gd_dcl_tlt_855_f2a1d8b2_dt_sl6_50)
 
 ---
 
