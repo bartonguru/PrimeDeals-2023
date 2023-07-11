@@ -17,6 +17,7 @@
 - [eSUN PLA+](https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Printing/dp/B0BN4W6P6Q/ref=sr_1_3?keywords=eSUN%2BPLA%2B%2B1.75mm%2BEnhanced%2Btoughness&sr=8-3&th=1)
 - [3D Pen 24 Color Refils](https://www.amazon.com/dp/B09RBKFBJ2?ref=dlx_prime_gd_dcl_tlt_667_faba918f_dt_sl6_50)
 - [ERYONE Rainbow PLA](https://www.amazon.com/dp/B0B6G11BX8?ref=dlx_prime_gd_dcl_tlt_678_6f88eefa_dt_sl6_50)
+- [MIKA3D MultiColor **Apply 20% Coupon**](https://www.amazon.com/dp/B0BLYVXV3X?ref=dlx_prime_gd_dcl_tlt_752_c44eabf3_dt_sl6_50)
 ### TPU
 - [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 
@@ -44,3 +45,4 @@
 - [Digital Caliper](https://www.amazon.com/Measurement-Conversion-Calipers-Measuring-Micrometer/dp/B0B9BGRP8X?ref=dlx_prime_gd_dcl_tlt_337_b1ed496b_dt_sl6_50&th=1)
 - [PTFE Tubing](https://www.amazon.com/Meters-Teflon-Filament-printer-Rostock/dp/B00THZKC8Y?ref=dlx_prime_gd_dcl_tlt_476_9ba06bb8_dt_sl6_50)
 - [Magnet Pieces](https://www.amazon.com/dp/B0B5GGSK3F?ref=dlx_prime_gd_dcl_tlt_682_afcf8d10_dt_sl6_50)
+- [Creality CR Touch Auto Leveling Kit](https://www.amazon.com/dp/B09DVYZSYJ?ref=dlx_prime_gd_dcl_tlt_745_5d5f16f1_dt_sl6_50)
