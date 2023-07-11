@@ -27,3 +27,4 @@
 - [Vinca Caliper](https://www.amazon.com/dp/B017KUC6XQ?ref=dlx_prime_gd_dcl_tlt_595_ed37b7c2_dt_sl6_50&th=1)
 - [Digital Caliper](https://www.amazon.com/Measurement-Conversion-Calipers-Measuring-Micrometer/dp/B0B9BGRP8X?ref=dlx_prime_gd_dcl_tlt_337_b1ed496b_dt_sl6_50&th=1)
 - [PTFE Tubing](https://www.amazon.com/Meters-Teflon-Filament-printer-Rostock/dp/B00THZKC8Y?ref=dlx_prime_gd_dcl_tlt_476_9ba06bb8_dt_sl6_50)
+- [Magnet Pieces](https://www.amazon.com/dp/B0B5GGSK3F?ref=dlx_prime_gd_dcl_tlt_682_afcf8d10_dt_sl6_50)
