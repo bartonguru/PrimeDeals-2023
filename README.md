@@ -15,6 +15,7 @@
 - [AnyCubic PLA](https://www.amazon.com/dp/B09YH8BPX7?ref=dlx_prime_gd_dcl_tlt_498_3246a297_dt_sl6_50)
 - [Mika3D PLA](https://www.amazon.com/dp/B0B5GSPX3S?ref=dlx_prime_gd_dcl_tlt_579_b8e0b600_dt_sl6_50&th=1)
 - [Silk Magic PLA](https://www.amazon.com/Printer-Filament-Coextruded-1-75mm-Gold-Red/dp/B0B48TCN4S?ref=dlx_prime_gd_dcl_tlt_236_9d5138f8_dt_sl6_50&th=1)
+- [ZIRO Glitter $19](https://www.amazon.com/ZIRO-Filament-Twinkling-Dimensional-Accuracy/dp/B01H3SHE78/ref=sw_ttl_d_pd_ewc_purchase_sim_11?_encoding=UTF8&pd_rd_i=B01H3SHE78&content-id=amzn1.sym.6c765dbf-3487-473e-b7c7-4a06a3685c33&th=1)
 - [ChaoFeng PLA](https://www.amazon.com/ChaoFeng-Filament-Consumables-Dimensional-Accuracy/dp/B08T6VPWS9/ref=sr_1_1?sr=8-1)
 - [Suming Muili-Color PLA](https://www.amazon.com/SUMING-Filament-Tricolor-Coextruded-Printing/dp/B0B7RCML3Z?ref=dlx_prime_gd_dcl_tlt_365_3cf991a3_dt_sl6_50)
 - [SUNLU PLA](https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B0C3HYJDNH/ref=d_m_crc_dp_lf_d_t1_sccl_3_14/142-5677709-7906125?content-id=amzn1.sym.5d471845-5073-424b-b27b-c0676f48a016&pd_rd_i=B07XG3RM58&th=1)
