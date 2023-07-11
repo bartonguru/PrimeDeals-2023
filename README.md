@@ -7,7 +7,6 @@
 - [ActiveME PETG](https://www.amazon.com/dp/B0B8YV28S8?ref=dlx_prime_gd_dcl_tlt_526_c917c9c1_dt_sl6_50)
 - [TPOIMNS PETG](https://www.amazon.com/TPOIMNS-Filament-Arranged-Dimensional-Transparent/dp/B09F5JRZWW?ref=dlx_prime_gd_dcl_tlt_273_3693b01e_dt_sl6_50)
 - [NAGA PETG](https://www.amazon.com/NAGA-Filament-Durable-Dimensional-Accuracy/dp/B0B79QPPH5?ref=dlx_prime_gd_dcl_tlt_169_8d8a420b_dt_sl6_50&th=1)
-- [Overture PLA Matte](https://www.amazon.com/dp/B0BN6BJG67?ref=dlx_prime_gd_dcl_tlt_481_81fb35c5_dt_sl6_50)
 - [Duramic](https://www.amazon.com/dp/B0863GC72R?ref=dlx_prime_gd_dcl_tlt_722_9afc6ea1_dt_sl6_50)
 
 ### PLA
@@ -21,6 +20,7 @@
 - [SUNLU PLA](https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B0C3HYJDNH/ref=d_m_crc_dp_lf_d_t1_sccl_3_14/142-5677709-7906125?content-id=amzn1.sym.5d471845-5073-424b-b27b-c0676f48a016&pd_rd_i=B07XG3RM58&th=1)
 - [Haosegd](https://www.amazon.com/dp/B0BCWGG8VQ?ref=dlx_prime_gd_dcl_tlt_774_d36bac25_dt_sl6_50)
 - [eSUN PLA+](https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Printing/dp/B0BN4W6P6Q/ref=sr_1_3?keywords=eSUN%2BPLA%2B%2B1.75mm%2BEnhanced%2Btoughness&sr=8-3&th=1)
+- [Overture PLA Matte](https://www.amazon.com/dp/B0BN6BJG67?ref=dlx_prime_gd_dcl_tlt_481_81fb35c5_dt_sl6_50)
 - [3D Pen 24 Color Refils](https://www.amazon.com/dp/B09RBKFBJ2?ref=dlx_prime_gd_dcl_tlt_667_faba918f_dt_sl6_50)
 - [3D Pen 22 Color Refils](https://www.amazon.com/dp/B0B54P2ZQ4?ref=dlx_prime_gd_dcl_tlt_768_a3462de2_dt_sl6_50)
 - [ERYONE Rainbow PLA](https://www.amazon.com/dp/B0B6G11BX8?ref=dlx_prime_gd_dcl_tlt_678_6f88eefa_dt_sl6_50)
