@@ -30,7 +30,7 @@
 - [R3D $10 Coupon](https://www.amazon.com/dp/B0BFFG1LWV?ref=dlx_prime_gd_dcl_tlt_747_4900c81e_dt_sl6_50)
 - [NAGA PLA+](https://www.amazon.com/dp/B0B66CK3MX?ref=dlx_prime_gd_dcl_tlt_753_57a8e14f_dt_sl6_50&th=1)
 - [IEMAI Silk](https://www.amazon.com/dp/B09BQK31Y8?ref=dlx_prime_gd_dcl_tlt_782_856fb7f3_dt_sl6_50)
-- [XinDongWang](https://www.amazon.com/dp/B08R6W9R1L?ref=dlx_prime_gd_dcl_tlt_858_94625772_dt_sl6_50&th=1
+- [XinDongWang](https://www.amazon.com/dp/B08R6W9R1L?ref=dlx_prime_gd_dcl_tlt_858_94625772_dt_sl6_50&th=1)
 
 ### TPU
 
