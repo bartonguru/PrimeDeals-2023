@@ -58,7 +58,8 @@
 - [Ender 5 S1](https://www.amazon.com/dp/B0BQ6MWK8P?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50&th=1)
 - [Phrozen Sonic Mini Resin](https://www.amazon.com/dp/B08D7HK8Q1?ref=dlx_prime_gd_dcl_tlt_714_7de48f1b_dt_sl6_50)
 - [Elegoo Mars 3 Pro Resin](https://www.amazon.com/dp/B09V17RKFV?ref=dlx_prime_gd_dcl_tlt_717_16326153_dt_sl6_50)
-- [Anucubic Photon D2](https://www.amazon.com/dp/B0B4QWYBZL?ref=dlx_prime_gd_dcl_tlt_777_0cc878be_dt_sl6_50)
+- [Anycubic Photon D2](https://www.amazon.com/dp/B0B4QWYBZL?ref=dlx_prime_gd_dcl_tlt_777_0cc878be_dt_sl6_50)
+- [Anycubic Kobra NEO](https://www.amazon.com/dp/B0BK1MPNVN?ref_=cm_sw_r_apan_dp_D0AJVRPRVVH5JSW9BM8P)
 
 ---
 
