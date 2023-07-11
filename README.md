@@ -21,6 +21,9 @@
 - [VoxeLab Auila Pro](https://www.amazon.com/Voxelab-Aquila-Pro-3D-Printer/dp/B0B1PCFC7B?ref=dlx_prime_gd_dcl_tlt_438_eb37dead_dt_sl6_50)
 - [Ender 3 V2 MicroCenter $99](https://www.microcenter.com/product/623606/creality-ender-3-v2-3d-printer)
 - [Ender 3 V2 Neo](https://www.amazon.com/dp/B0B56NMP11?ref=dlx_prime_gd_dcl_tlt_696_095d1dc8_dt_sl6_50)
+- [Ender 3 V2 Neo CRTouch](https://www.amazon.com/dp/B0B8N64LM2?ref=dlx_prime_gd_dcl_tlt_707_7f9c9218_dt_sl6_50)
+- [Phrozen Sonic Mini Resin](https://www.amazon.com/dp/B08D7HK8Q1?ref=dlx_prime_gd_dcl_tlt_714_7de48f1b_dt_sl6_50)
+- [Elegoo Mars 3 Pro Resin](https://www.amazon.com/dp/B09V17RKFV?ref=dlx_prime_gd_dcl_tlt_717_16326153_dt_sl6_50)
 
 ---
 
