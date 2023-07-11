@@ -1,13 +1,17 @@
 # 3D Printing Prime Day "Deals" 2023
 
 ## Filaments
+
 ### PETG
+
 - [ActiveME PETG](https://www.amazon.com/dp/B0B8YV28S8?ref=dlx_prime_gd_dcl_tlt_526_c917c9c1_dt_sl6_50)
 - [TPOIMNS PETG](https://www.amazon.com/TPOIMNS-Filament-Arranged-Dimensional-Transparent/dp/B09F5JRZWW?ref=dlx_prime_gd_dcl_tlt_273_3693b01e_dt_sl6_50)
 - [NAGA PETG](https://www.amazon.com/NAGA-Filament-Durable-Dimensional-Accuracy/dp/B0B79QPPH5?ref=dlx_prime_gd_dcl_tlt_169_8d8a420b_dt_sl6_50&th=1)
 - [Overture PLA Matte](https://www.amazon.com/dp/B0BN6BJG67?ref=dlx_prime_gd_dcl_tlt_481_81fb35c5_dt_sl6_50)
 - [Duramic](https://www.amazon.com/dp/B0863GC72R?ref=dlx_prime_gd_dcl_tlt_722_9afc6ea1_dt_sl6_50)
+
 ### PLA
+
 - [**PolyMaker 30% Off Coupon RESTOCKDAYS20203**](https://us.polymaker.com/)
 - [AnyCubic PLA](https://www.amazon.com/dp/B09YH8BPX7?ref=dlx_prime_gd_dcl_tlt_498_3246a297_dt_sl6_50)
 - [Mika3D PLA](https://www.amazon.com/dp/B0B5GSPX3S?ref=dlx_prime_gd_dcl_tlt_579_b8e0b600_dt_sl6_50&th=1)
@@ -26,7 +30,10 @@
 - [R3D $10 Coupon](https://www.amazon.com/dp/B0BFFG1LWV?ref=dlx_prime_gd_dcl_tlt_747_4900c81e_dt_sl6_50)
 - [NAGA PLA+](https://www.amazon.com/dp/B0B66CK3MX?ref=dlx_prime_gd_dcl_tlt_753_57a8e14f_dt_sl6_50&th=1)
 - [IEMAI Silk](https://www.amazon.com/dp/B09BQK31Y8?ref=dlx_prime_gd_dcl_tlt_782_856fb7f3_dt_sl6_50)
+- [XinDongWang](https://www.amazon.com/dp/B08R6W9R1L?ref=dlx_prime_gd_dcl_tlt_858_94625772_dt_sl6_50&th=1
+
 ### TPU
+
 - [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 - [Overture](https://www.amazon.com/dp/B07VBKDM74?ref=dlx_prime_gd_dcl_tlt_775_fb387e1e_dt_sl6_50)
 
