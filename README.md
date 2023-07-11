@@ -13,6 +13,7 @@
 - [SUNLU PLA](https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B0C3HYJDNH/ref=d_m_crc_dp_lf_d_t1_sccl_3_14/142-5677709-7906125?content-id=amzn1.sym.5d471845-5073-424b-b27b-c0676f48a016&pd_rd_i=B07XG3RM58&th=1)
 - [PolyMaker 30% Off Coupon RESTOCKDAYS20203](https://us.polymaker.com/)
 - [eSUN PLA+](https://www.amazon.com/eSUN-Filament-Dimensional-Accuracy-Printing/dp/B0BN4W6P6Q/ref=sr_1_3?keywords=eSUN%2BPLA%2B%2B1.75mm%2BEnhanced%2Btoughness&sr=8-3&th=1)
+- [3D Pen 24 Color Refils](https://www.amazon.com/dp/B09RBKFBJ2?ref=dlx_prime_gd_dcl_tlt_667_faba918f_dt_sl6_50)
 
 ---
 
