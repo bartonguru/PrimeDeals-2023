@@ -19,6 +19,7 @@
 ## Printers
 - [Sovol SV04](https://www.amazon.com/dp/B09MLSSKRD?ref=dlx_prime_gd_dcl_tlt_501_975ceb52_dt_sl6_50)
 - [VoxeLab Auila Pro](https://www.amazon.com/Voxelab-Aquila-Pro-3D-Printer/dp/B0B1PCFC7B?ref=dlx_prime_gd_dcl_tlt_438_eb37dead_dt_sl6_50)
+- [Ender 3 V2 MicroCenter $99] 9https://www.microcenter.com/product/623606/creality-ender-3-v2-3d-printer)
 
 ---
 
