@@ -23,6 +23,7 @@
 - [MIKA3D MultiColor **Apply 20% Coupon**](https://www.amazon.com/dp/B0BLYVXV3X?ref=dlx_prime_gd_dcl_tlt_752_c44eabf3_dt_sl6_50)
 - [TTYT3D **20% Coupoon**](https://www.amazon.com/dp/B0BZN9927H?ref=dlx_prime_gd_dcl_tlt_729_a68de9aa_dt_sl6_50&th=1)
 - [TRONXY Glow in The Dark](https://www.amazon.com/dp/B0BBDYSQ14?ref=dlx_prime_gd_dcl_tlt_730_6f65b50f_dt_sl6_50v)
+- [R3D $10 Coupon](https://www.amazon.com/dp/B0BFFG1LWV?ref=dlx_prime_gd_dcl_tlt_747_4900c81e_dt_sl6_50)
 ### TPU
 - [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 - [Overture](https://www.amazon.com/dp/B07VBKDM74?ref=dlx_prime_gd_dcl_tlt_775_fb387e1e_dt_sl6_50)
