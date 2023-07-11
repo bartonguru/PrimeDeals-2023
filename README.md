@@ -24,6 +24,8 @@
 - [TTYT3D **20% Coupoon**](https://www.amazon.com/dp/B0BZN9927H?ref=dlx_prime_gd_dcl_tlt_729_a68de9aa_dt_sl6_50&th=1)
 - [TRONXY Glow in The Dark](https://www.amazon.com/dp/B0BBDYSQ14?ref=dlx_prime_gd_dcl_tlt_730_6f65b50f_dt_sl6_50v)
 - [R3D $10 Coupon](https://www.amazon.com/dp/B0BFFG1LWV?ref=dlx_prime_gd_dcl_tlt_747_4900c81e_dt_sl6_50)
+- [NAGA PLA+](https://www.amazon.com/dp/B0B66CK3MX?ref=dlx_prime_gd_dcl_tlt_753_57a8e14f_dt_sl6_50&th=1)
+- [IEMAI Silk](https://www.amazon.com/dp/B09BQK31Y8?ref=dlx_prime_gd_dcl_tlt_782_856fb7f3_dt_sl6_50)
 ### TPU
 - [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 - [Overture](https://www.amazon.com/dp/B07VBKDM74?ref=dlx_prime_gd_dcl_tlt_775_fb387e1e_dt_sl6_50)
@@ -32,6 +34,7 @@
 
 ## Resin
 - [ANYCUBIC](https://www.amazon.com/dp/B0B49M4LTZ?ref=dlx_prime_gd_dcl_tlt_682_41be9f62_dt_sl6_50)
+- [ANYCUBIC Plant Based](https://www.amazon.com/dp/B07YZ71R2H?ref=dlx_prime_gd_dcl_tlt_774_ddc8c4ec_dt_sl6_50)
 
 ---
 
@@ -41,6 +44,8 @@
 - [Ender 3 V2 MicroCenter $99](https://www.microcenter.com/product/623606/creality-ender-3-v2-3d-printer)
 - [Ender 3 V2 Neo](https://www.amazon.com/dp/B0B56NMP11?ref=dlx_prime_gd_dcl_tlt_696_095d1dc8_dt_sl6_50)
 - [Ender 3 V2 Neo CRTouch](https://www.amazon.com/dp/B0B8N64LM2?ref=dlx_prime_gd_dcl_tlt_707_7f9c9218_dt_sl6_50)
+- [Ender 3 S1 Pro](https://www.amazon.com/dp/B09V54Y6HD?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50)
+- [Ender 5 S1](https://www.amazon.com/dp/B0BQ6MWK8P?ref=dlx_prime_gd_dcl_tlt_789_1354330a_dt_sl6_50&th=1)
 - [Phrozen Sonic Mini Resin](https://www.amazon.com/dp/B08D7HK8Q1?ref=dlx_prime_gd_dcl_tlt_714_7de48f1b_dt_sl6_50)
 - [Elegoo Mars 3 Pro Resin](https://www.amazon.com/dp/B09V17RKFV?ref=dlx_prime_gd_dcl_tlt_717_16326153_dt_sl6_50)
 - [Anucubic Photon D2](https://www.amazon.com/dp/B0B4QWYBZL?ref=dlx_prime_gd_dcl_tlt_777_0cc878be_dt_sl6_50)
