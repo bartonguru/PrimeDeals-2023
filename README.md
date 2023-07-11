@@ -20,8 +20,11 @@
 ### TPU
 - [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 
+--- 
+
 ## Resin
 - [ANYCUBIC](https://www.amazon.com/dp/B0B49M4LTZ?ref=dlx_prime_gd_dcl_tlt_682_41be9f62_dt_sl6_50)
+
 ---
 
 ## Printers
