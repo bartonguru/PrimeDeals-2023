@@ -6,6 +6,7 @@
 - [TPOIMNS PETG](https://www.amazon.com/TPOIMNS-Filament-Arranged-Dimensional-Transparent/dp/B09F5JRZWW?ref=dlx_prime_gd_dcl_tlt_273_3693b01e_dt_sl6_50)
 - [NAGA PETG](https://www.amazon.com/NAGA-Filament-Durable-Dimensional-Accuracy/dp/B0B79QPPH5?ref=dlx_prime_gd_dcl_tlt_169_8d8a420b_dt_sl6_50&th=1)
 - [Overture PLA Matte](https://www.amazon.com/dp/B0BN6BJG67?ref=dlx_prime_gd_dcl_tlt_481_81fb35c5_dt_sl6_50)
+- [Duramic](https://www.amazon.com/dp/B0863GC72R?ref=dlx_prime_gd_dcl_tlt_722_9afc6ea1_dt_sl6_50)
 ### PLA
 - [**PolyMaker 30% Off Coupon RESTOCKDAYS20203**](https://us.polymaker.com/)
 - [AnyCubic PLA](https://www.amazon.com/dp/B09YH8BPX7?ref=dlx_prime_gd_dcl_tlt_498_3246a297_dt_sl6_50)
@@ -20,6 +21,7 @@
 - [3D Pen 22 Color Refils](https://www.amazon.com/dp/B0B54P2ZQ4?ref=dlx_prime_gd_dcl_tlt_768_a3462de2_dt_sl6_50)
 - [ERYONE Rainbow PLA](https://www.amazon.com/dp/B0B6G11BX8?ref=dlx_prime_gd_dcl_tlt_678_6f88eefa_dt_sl6_50)
 - [MIKA3D MultiColor **Apply 20% Coupon**](https://www.amazon.com/dp/B0BLYVXV3X?ref=dlx_prime_gd_dcl_tlt_752_c44eabf3_dt_sl6_50)
+- [TTYT3D **20% Coupoon**](https://www.amazon.com/dp/B0BZN9927H?ref=dlx_prime_gd_dcl_tlt_729_a68de9aa_dt_sl6_50&th=1)
 ### TPU
 - [SainSmart](https://www.amazon.com/dp/B078JMFH7S?ref=dlx_prime_gd_dcl_tlt_680_59b63672_dt_sl6_50)
 - [Overture](https://www.amazon.com/dp/B07VBKDM74?ref=dlx_prime_gd_dcl_tlt_775_fb387e1e_dt_sl6_50)
